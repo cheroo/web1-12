@@ -7,6 +7,7 @@ for(var i=1;i<100;i++){
     else{
          li.textContent=Fizz;
     }
+  }
   else if(i%5==0){
             li.textContent=Buzz;
   }
