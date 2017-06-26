@@ -14,7 +14,7 @@ for(var i=1;i<100;i++){
     else{
         li.textContent=i;
     }
-  }
+  
     document.createElementById('list').appendChild(li);
 }
 
